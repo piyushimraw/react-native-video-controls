@@ -1,5 +1,5 @@
 {
-  "name": "@piyushimraw/react-native-video-controls",
+  "name": "react-native-video-controls-wrapper",
   "version": "2.7.1",
   "description": "A set of GUI controls for the react-native-video component",
   "license": "MIT",
